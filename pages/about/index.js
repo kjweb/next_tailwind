@@ -16,7 +16,7 @@ export default function About(){
         <Link href={'/'}><a>home</a></Link>
       </div>
       <div>
-        <Image src={`/img/test01.jpg`} width={720} height={540} />
+        <Image src={`/img/test01.JPG`} width={720} height={540} />
       </div>
       <Footer title="Aboutフッタータイトル" />
     </>
