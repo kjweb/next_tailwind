@@ -45,7 +45,7 @@ const Home =()=>{
     <Header title={ title }/>
     <h1>テスト</h1>
     <div>
-      <Image src={ `/img/test01.jpg` } width={720} height={540} alt={`画像`} />
+      <Image src={ `/img/test01.JPG` } width={720} height={540} alt={`画像`} />
     </div>
     <Link href={'/about'}><a>Aboutページへ</a></Link>
     <Footer title={ title } />
